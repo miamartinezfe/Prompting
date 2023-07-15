@@ -1,0 +1,14 @@
+Large Languaje Models
+
+    - BASE LLM
+
+        predict next word based on text training data 
+
+    - INTRUCTION TUNED LLM (safer aligned, easier to use)
+
+        * follow instructions
+        * empieza como un base LLM pero se refina usando RLHF (Reinforcement Learning with Human Feedback)
+
+    Este curso se basa en tuned LLMs
+
+    * we need to be clear and spicific, and giving LLM time to think
